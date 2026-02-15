@@ -27,21 +27,13 @@
 
 ---
 
----
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SafuraKasu&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SafuraKasu&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SafuraKasu&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SafuraKasu&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SafuraKasu&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7F3ACE&height=120&section=footer"/>
